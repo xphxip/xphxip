@@ -23,7 +23,7 @@
 
 ---
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
+<img align="right" width="280" style="border-radius:50%" src="https://github.com/xphxip/xphxip/blob/main/01.jpeg?raw=true" alt="Leandro Lucatelli" />
 
 ### 👋 Olá, mundo!
 
