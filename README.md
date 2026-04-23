@@ -1,4 +1,6 @@
-  <div align="center">
+<div align="center">
+
+<p align="center">
 
 ```
 ██╗     ███████╗ █████╗ ███╗   ██╗██████╗ ██████╗  ██████╗
@@ -8,6 +10,8 @@
 ███████╗███████╗██║  ██║██║ ╚████║██████╔╝██║  ██║╚██████╔╝
 ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
 ```
+
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=Leandro%20Lucatelli&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
@@ -155,6 +159,7 @@ const leandro = {
 
 | 🏅 Certificado | ⏱️ Carga Horária | 📅 Conclusão |
 |:---|:---:|:---:|
+| 📊 Análise de Dados no Power BI | 4h | Mar/2026 |
 | 🗄️ Implementando Banco de Dados | 15h | Fev/2026 |
 | 🐍 Python Básico | 18h | Fev/2026 |
 | 🐍 Python Orientado a Objetos | 10h | Fev/2026 |
@@ -193,7 +198,7 @@ const leandro = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xphxip)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-nascimento-lucatelli-b68a0a245/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrolucatelli2003@gmail.com)
 
 <br/>
 
